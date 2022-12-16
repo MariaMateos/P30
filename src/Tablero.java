@@ -30,9 +30,9 @@ public class Tablero {
 	public char getcasilla (int ancho,int alto) {
 		return tablero[ancho][alto];
 	}
-	public void setCasilla (int ancho, int alto, char cambio) {
-		tablero[ancho][alto];
-	}
+	/*public void setCasilla (int ancho, int alto, char cambio) {
+		//tablero[ancho][alto];
+	}*/
 	
 	
 	
