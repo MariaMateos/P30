@@ -9,7 +9,7 @@ public class multiplo7 {
 	n=n+1;
 	}
 	
-	
+	syso
 	
 
 }

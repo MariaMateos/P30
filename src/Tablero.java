@@ -33,7 +33,7 @@ public class Tablero {
 	/*public void setCasilla (int ancho, int alto, char cambio) {
 		//tablero[ancho][alto];
 	}*/
-	
+	syso
 	
 	
 	
